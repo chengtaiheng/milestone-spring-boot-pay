@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.github.chengtaiheng.milestone.pay.alipay.autoconfig.AlipayAutoConfig,\
+com.github.chengtaiheng.milestone.pay.alipay.autoconfig.AlipayCallbackNotifyAutoConfig

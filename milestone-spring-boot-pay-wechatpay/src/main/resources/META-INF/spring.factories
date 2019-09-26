@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.github.chengtaiheng.milestone.pay.wechatpay.autoconfig.WechatPayAutoConfig,\
+com.github.chengtaiheng.milestone.pay.wechatpay.autoconfig.WechatPayNotifyAutoConfig
